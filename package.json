@@ -2,11 +2,8 @@
   "name": "poc-ng-nitro",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Vincent Nabet",
+  "license": "ISC",
+  "packageManager": "pnpm@9.14.4"
 }
